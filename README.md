@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raul Alberto Moheno Zavaleta (Raul Albert Dev)</h1>
 <h3 align="center">A passionate frontend and Backend developer from México,</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raulalbertmohzav&label=Profile%20views&color=0e75b6&style=flat" alt="raulalbertmohzav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulalbertmohzav" alt="raulalbertmohzav" /></a> </p>
-
 - 🔭 I’m currently working on [Grupo Serco México](https://cpgruposerco.com/)
 
 - 🌱 I’m currently learning **Javascript, Laravel & React**
