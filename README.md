@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul Alberto Moheno Zavaleta (Raul Albert Dev)</h1>
 <h3 align="center">A passionate frontend and Backend developer from México,</h3>
 
-- 🔭 I’m currently working on [Grupo Serco México](https://cpgruposerco.com/)
+- 🔭 I’m currently working on [Grupo Chedraui México](https://www.linkedin.com/company/chedraui)
 
 - 🌱 I’m currently learning **Javascript, Laravel & React**
 
