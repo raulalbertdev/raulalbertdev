@@ -3,19 +3,13 @@
 
 - 🔭 I’m currently working on [Grupo Chedraui México](https://www.linkedin.com/company/chedraui)
 
-- 🌱 I’m currently learning **Javascript, Laravel & React**
+- 🌱 I’m currently learning **Python & Git - Github**
 
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/raulalbertdev](https://github.com/raulalbertdev)
+- 💬 Ask me about **HTML, CSS, Javascript, Vue, PHP & Laravel**
 
-- 📝 I regularly write articles on [https://morioh.com/](https://morioh.com/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, Vue, React and Laravel**
-
-- 📫 How to reach me **raulalbertdev@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/raulalbertdev](https://github.com/raulalbertdev)
+- 📄 Know about my experiences [https://github.com/raulalbertdev](https://github.com/raulalbertdev?tab=repositories)
 
 - ⚡ Fun fact **I enjoy working as part of a team to meet daily objectives.**
 
