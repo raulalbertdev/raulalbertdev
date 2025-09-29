@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/raulalbertmohzavdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raulalbertmohzavdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/raulalbertdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raulalbertmohzavdev" height="30" width="40" /></a>
-<a href="https://codesandbox.com/raulalbertmohzav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="raulalbertmohzav" height="30" width="40" /></a>
-<a href="https://instagram.com/raul_albert.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raul_albert.dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raulalbertmohzav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raulalbertmohzav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raulalbertdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raulalbertdev/" height="30" width="40" /></a>
+<a href="https://instagram.com/raulalbertdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/raulalbertdev" height="30" width="40" /></a>
+<a href="https://codewars.com/users/raulalbertdev" target="blank"><img align="center" src="https://codewars.com/packs/assets/logo.f607a0fb.svg" alt="codewars.com/users/raulalbertdev" height="30" width="40" /></a>
 </p>
